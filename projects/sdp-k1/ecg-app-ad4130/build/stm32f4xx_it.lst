@@ -1,4 +1,4 @@
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 1
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 1
   28:Core/Src/stm32f4xx_it.c **** /* USER CODE BEGIN TD */
   29:Core/Src/stm32f4xx_it.c **** 
   30:Core/Src/stm32f4xx_it.c **** /* USER CODE END TD */
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 2
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s 			page 2
 
 
   31:Core/Src/stm32f4xx_it.c **** 
@@ -118,7 +118,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 1
   77:Core/Src/stm32f4xx_it.c ****   }
   37              		.loc 1 77 3 discriminator 1 view .LVU2
   75:Core/Src/stm32f4xx_it.c ****   {
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 3
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s 			page 3
 
 
   38              		.loc 1 75 9 discriminator 1 view .LVU3
@@ -178,7 +178,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 1
   98:Core/Src/stm32f4xx_it.c ****   */
   99:Core/Src/stm32f4xx_it.c **** void MemManage_Handler(void)
  100:Core/Src/stm32f4xx_it.c **** {
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 4
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s 			page 4
 
 
   75              		.loc 1 100 1 view -0
@@ -238,7 +238,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 1
  119:Core/Src/stm32f4xx_it.c ****   {
  107              		.loc 1 119 9 discriminator 1 view .LVU15
  108 0000 FEE7     		b	.L8
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 5
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s 			page 5
 
 
  109              		.cfi_endproc
@@ -298,7 +298,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 1
  144              		.loc 1 145 1 view -0
  145              		.cfi_startproc
  146              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 6
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s 			page 6
 
 
  147              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -358,7 +358,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 1
  169:Core/Src/stm32f4xx_it.c ****   */
  170:Core/Src/stm32f4xx_it.c **** void PendSV_Handler(void)
  171:Core/Src/stm32f4xx_it.c **** {
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 7
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s 			page 7
 
 
  182              		.loc 1 171 1 view -0
@@ -418,7 +418,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 1
  218              		.section	.text.TIM3_IRQHandler,"ax",%progbits
  219              		.align	1
  220              		.global	TIM3_IRQHandler
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 8
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s 			page 8
 
 
  221              		.syntax unified
@@ -449,62 +449,73 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 1
  234              		.cfi_offset 3, -8
  235              		.cfi_offset 14, -4
  206:Core/Src/stm32f4xx_it.c ****   /* USER CODE BEGIN TIM3_IRQn 0 */
- 207:Core/Src/stm32f4xx_it.c **** 
+ 207:Core/Src/stm32f4xx_it.c ****   HAL_GPIO_TogglePin(GPIOK,GPIO_PIN_4);
+ 236              		.loc 1 207 3 view .LVU30
+ 237 0002 1021     		movs	r1, #16
+ 238 0004 0348     		ldr	r0, .L18
+ 239 0006 FFF7FEFF 		bl	HAL_GPIO_TogglePin
+ 240              	.LVL1:
  208:Core/Src/stm32f4xx_it.c ****   /* USER CODE END TIM3_IRQn 0 */
  209:Core/Src/stm32f4xx_it.c ****   HAL_TIM_IRQHandler(&htim3);
- 236              		.loc 1 209 3 view .LVU30
- 237 0002 0248     		ldr	r0, .L18
- 238 0004 FFF7FEFF 		bl	HAL_TIM_IRQHandler
- 239              	.LVL1:
+ 241              		.loc 1 209 3 view .LVU31
+ 242 000a 0348     		ldr	r0, .L18+4
+ 243 000c FFF7FEFF 		bl	HAL_TIM_IRQHandler
+ 244              	.LVL2:
  210:Core/Src/stm32f4xx_it.c ****   /* USER CODE BEGIN TIM3_IRQn 1 */
  211:Core/Src/stm32f4xx_it.c **** 
  212:Core/Src/stm32f4xx_it.c ****   /* USER CODE END TIM3_IRQn 1 */
  213:Core/Src/stm32f4xx_it.c **** }
- 240              		.loc 1 213 1 is_stmt 0 view .LVU31
- 241 0008 08BD     		pop	{r3, pc}
- 242              	.L19:
- 243 000a 00BF     		.align	2
- 244              	.L18:
- 245 000c 00000000 		.word	htim3
- 246              		.cfi_endproc
- 247              	.LFE139:
- 249              		.text
- 250              	.Letext0:
- 251              		.file 2 "/Applications/ArmGNUToolchain/11.3.rel1/arm-none-eabi/arm-none-eabi/include/machine/_defa
- 252              		.file 3 "/Applications/ArmGNUToolchain/11.3.rel1/arm-none-eabi/arm-none-eabi/include/sys/_stdint.h
- 253              		.file 4 "Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f469xx.h"
- 254              		.file 5 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h"
- 255              		.file 6 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h"
- 256              		.file 7 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h"
- 257              		.file 8 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h"
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s 			page 9
+ 245              		.loc 1 213 1 is_stmt 0 view .LVU32
+ 246 0010 08BD     		pop	{r3, pc}
+ 247              	.L19:
+ 248 0012 00BF     		.align	2
+ 249              	.L18:
+ 250 0014 00280240 		.word	1073883136
+ 251 0018 00000000 		.word	htim3
+ 252              		.cfi_endproc
+ 253              	.LFE139:
+ 255              		.text
+ 256              	.Letext0:
+ 257              		.file 2 "/Applications/ArmGNUToolchain/11.3.rel1/arm-none-eabi/arm-none-eabi/include/machine/_defa
+ 258              		.file 3 "/Applications/ArmGNUToolchain/11.3.rel1/arm-none-eabi/arm-none-eabi/include/sys/_stdint.h
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s 			page 9
+
+
+ 259              		.file 4 "Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f469xx.h"
+ 260              		.file 5 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h"
+ 261              		.file 6 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h"
+ 262              		.file 7 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h"
+ 263              		.file 8 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h"
+ 264              		.file 9 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h"
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s 			page 10
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32f4xx_it.c
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:20     .text.NMI_Handler:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:26     .text.NMI_Handler:0000000000000000 NMI_Handler
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:44     .text.HardFault_Handler:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:50     .text.HardFault_Handler:0000000000000000 HardFault_Handler
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:67     .text.MemManage_Handler:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:73     .text.MemManage_Handler:0000000000000000 MemManage_Handler
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:90     .text.BusFault_Handler:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:96     .text.BusFault_Handler:0000000000000000 BusFault_Handler
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:113    .text.UsageFault_Handler:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:119    .text.UsageFault_Handler:0000000000000000 UsageFault_Handler
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:136    .text.SVC_Handler:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:142    .text.SVC_Handler:0000000000000000 SVC_Handler
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:155    .text.DebugMon_Handler:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:161    .text.DebugMon_Handler:0000000000000000 DebugMon_Handler
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:174    .text.PendSV_Handler:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:180    .text.PendSV_Handler:0000000000000000 PendSV_Handler
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:193    .text.SysTick_Handler:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:199    .text.SysTick_Handler:0000000000000000 SysTick_Handler
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:219    .text.TIM3_IRQHandler:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:225    .text.TIM3_IRQHandler:0000000000000000 TIM3_IRQHandler
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cccA1a6z.s:245    .text.TIM3_IRQHandler:000000000000000c $d
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:20     .text.NMI_Handler:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:26     .text.NMI_Handler:0000000000000000 NMI_Handler
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:44     .text.HardFault_Handler:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:50     .text.HardFault_Handler:0000000000000000 HardFault_Handler
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:67     .text.MemManage_Handler:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:73     .text.MemManage_Handler:0000000000000000 MemManage_Handler
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:90     .text.BusFault_Handler:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:96     .text.BusFault_Handler:0000000000000000 BusFault_Handler
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:113    .text.UsageFault_Handler:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:119    .text.UsageFault_Handler:0000000000000000 UsageFault_Handler
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:136    .text.SVC_Handler:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:142    .text.SVC_Handler:0000000000000000 SVC_Handler
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:155    .text.DebugMon_Handler:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:161    .text.DebugMon_Handler:0000000000000000 DebugMon_Handler
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:174    .text.PendSV_Handler:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:180    .text.PendSV_Handler:0000000000000000 PendSV_Handler
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:193    .text.SysTick_Handler:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:199    .text.SysTick_Handler:0000000000000000 SysTick_Handler
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:219    .text.TIM3_IRQHandler:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:225    .text.TIM3_IRQHandler:0000000000000000 TIM3_IRQHandler
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccvHQKsI.s:250    .text.TIM3_IRQHandler:0000000000000014 $d
 
 UNDEFINED SYMBOLS
 HAL_IncTick
+HAL_GPIO_TogglePin
 HAL_TIM_IRQHandler
 htim3
