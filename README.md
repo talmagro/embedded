@@ -1,6 +1,6 @@
 # Embedded
 
-The `embedded` repository contans small embedded C projects. For this projects two development boards are used, the [SDP-K1](projects/sdp-k1/README.md) or the nrf52840-dongle.
+The `embedded` repository contains small embedded C projects. These projects are developed  using the Visual Studio Code IDE in macOS Big Sur (11.7). Two development boards are used, the [SDP-K1](projects/sdp-k1/README.md) or the nrf52840-dongle.
 
 ## SDP-K1 Projects Overview
 
