@@ -6,5 +6,6 @@
         "stm32f4xx_hal_rcc.h": "c",
         "stm32f4xx_hal_conf.h": "c",
         "stm32f4xx_hal_cortex.h": "c"
-    }
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
 }
