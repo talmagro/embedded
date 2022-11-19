@@ -1,4 +1,4 @@
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
   29:Core/Src/main.c **** 
   30:Core/Src/main.c **** /* USER CODE END PTD */
   31:Core/Src/main.c **** 
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 2
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 2
 
 
   32:Core/Src/main.c **** /* Private define ------------------------------------------------------------*/
@@ -118,7 +118,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
   86:Core/Src/main.c **** 
   87:Core/Src/main.c ****   /* USER CODE END SysInit */
   88:Core/Src/main.c **** 
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 3
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 3
 
 
   89:Core/Src/main.c ****   /* Initialize all configured peripherals */
@@ -178,7 +178,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  143:Core/Src/main.c ****   RCC_ClkInitStruct.SYSCLKSource = RCC_SYSCLKSOURCE_PLLCLK;
  144:Core/Src/main.c ****   RCC_ClkInitStruct.AHBCLKDivider = RCC_SYSCLK_DIV1;
  145:Core/Src/main.c ****   RCC_ClkInitStruct.APB1CLKDivider = RCC_HCLK_DIV4;
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 4
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 4
 
 
  146:Core/Src/main.c ****   RCC_ClkInitStruct.APB2CLKDivider = RCC_HCLK_DIV2;
@@ -238,7 +238,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  200:Core/Src/main.c ****   /* USER CODE BEGIN TIM3_Init 0 */
  201:Core/Src/main.c **** 
  202:Core/Src/main.c ****   /* USER CODE END TIM3_Init 0 */
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 5
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 5
 
 
  203:Core/Src/main.c **** 
@@ -298,7 +298,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  244:Core/Src/main.c ****   GPIO_InitTypeDef GPIO_InitStruct = {0};
   41              		.loc 1 244 3 view .LVU1
   42              		.loc 1 244 20 is_stmt 0 view .LVU2
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 6
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 6
 
 
   43 0004 0024     		movs	r4, #0
@@ -358,7 +358,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
   92 0046 02F48062 		and	r2, r2, #1024
   93 004a 0392     		str	r2, [sp, #12]
   94              		.loc 1 249 3 view .LVU19
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 7
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 7
 
 
   95 004c 039A     		ldr	r2, [sp, #12]
@@ -418,7 +418,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  138 007e FFF7FEFF 		bl	HAL_GPIO_Init
  139              	.LVL1:
  261:Core/Src/main.c **** 
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 8
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 8
 
 
  262:Core/Src/main.c **** }
@@ -478,7 +478,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
    9:Drivers/CMSIS/Include/cmsis_gcc.h ****  *
   10:Drivers/CMSIS/Include/cmsis_gcc.h ****  * SPDX-License-Identifier: Apache-2.0
   11:Drivers/CMSIS/Include/cmsis_gcc.h ****  *
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 9
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 9
 
 
   12:Drivers/CMSIS/Include/cmsis_gcc.h ****  * Licensed under the Apache License, Version 2.0 (the License); you may
@@ -538,7 +538,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
   66:Drivers/CMSIS/Include/cmsis_gcc.h **** #endif
   67:Drivers/CMSIS/Include/cmsis_gcc.h **** #ifndef   __PACKED_UNION
   68:Drivers/CMSIS/Include/cmsis_gcc.h ****   #define __PACKED_UNION                         union __attribute__((packed, aligned(1)))
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 10
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 10
 
 
   69:Drivers/CMSIS/Include/cmsis_gcc.h **** #endif
@@ -598,7 +598,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  123:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  124:Drivers/CMSIS/Include/cmsis_gcc.h **** /**
  125:Drivers/CMSIS/Include/cmsis_gcc.h ****   \brief   Enable IRQ Interrupts
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 11
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 11
 
 
  126:Drivers/CMSIS/Include/cmsis_gcc.h ****   \details Enables IRQ interrupts by clearing the I-bit in the CPSR.
@@ -658,7 +658,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  207              		.cfi_offset 3, -8
  208              		.cfi_offset 14, -4
  170:Core/Src/main.c ****   hspi1.Init.Mode = SPI_MODE_MASTER;
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 12
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 12
 
 
  209              		.loc 1 170 3 view .LVU46
@@ -718,7 +718,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  244 0024 4362     		str	r3, [r0, #36]
  180:Core/Src/main.c ****   hspi1.Init.CRCPolynomial = 10;
  245              		.loc 1 180 3 is_stmt 1 view .LVU66
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 13
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 13
 
 
  180:Core/Src/main.c ****   hspi1.Init.CRCPolynomial = 10;
@@ -778,7 +778,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  204:Core/Src/main.c ****   TIM_MasterConfigTypeDef sMasterConfig = {0};
  292              		.loc 1 204 26 is_stmt 0 view .LVU77
  293 0004 0023     		movs	r3, #0
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 14
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 14
 
 
  294 0006 0293     		str	r3, [sp, #8]
@@ -838,7 +838,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  330              		.loc 1 220 3 is_stmt 1 view .LVU95
  220:Core/Src/main.c ****   if (HAL_TIM_ConfigClockSource(&htim3, &sClockSourceConfig) != HAL_OK)
  331              		.loc 1 220 34 is_stmt 0 view .LVU96
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 15
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 15
 
 
  332 0030 4FF48053 		mov	r3, #4096
@@ -898,7 +898,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  373              	.LVL8:
  374              	.L20:
  229:Core/Src/main.c ****   }
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 16
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 16
 
 
  375              		.loc 1 229 5 view .LVU110
@@ -958,7 +958,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  424 001a 0093     		str	r3, [sp]
  119:Core/Src/main.c ****   __HAL_PWR_VOLTAGESCALING_CONFIG(PWR_REGULATOR_VOLTAGE_SCALE3);
  425              		.loc 1 119 3 view .LVU118
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 17
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 17
 
 
  426 001c 224A     		ldr	r2, .L29
@@ -1018,7 +1018,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  465              		.loc 1 127 34 is_stmt 0 view .LVU133
  466 0054 0223     		movs	r3, #2
  467 0056 0D93     		str	r3, [sp, #52]
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 18
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 18
 
 
  128:Core/Src/main.c ****   RCC_OscInitStruct.PLL.PLLM = 8;
@@ -1078,7 +1078,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  503 007a 0223     		movs	r3, #2
  504 007c 0393     		str	r3, [sp, #12]
  144:Core/Src/main.c ****   RCC_ClkInitStruct.APB1CLKDivider = RCC_HCLK_DIV4;
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 19
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 19
 
 
  505              		.loc 1 144 3 is_stmt 1 view .LVU153
@@ -1138,7 +1138,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  548              	.LFE131:
  550              		.section	.text.main,"ax",%progbits
  551              		.align	1
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 20
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 20
 
 
  552              		.global	main
@@ -1198,7 +1198,7 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  597              		.cfi_endproc
  598              	.LFE130:
  600              		.global	htim3
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 21
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 21
 
 
  601              		.global	hspi1
@@ -1235,32 +1235,32 @@ ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 1
  628              		.file 13 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h"
  629              		.file 14 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h"
  630              		.file 15 "<built-in>"
-ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s 			page 22
+ARM GAS  /var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s 			page 22
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 main.c
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:20     .text.MX_GPIO_Init:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:25     .text.MX_GPIO_Init:0000000000000000 MX_GPIO_Init
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:149    .text.MX_GPIO_Init:0000000000000088 $d
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:155    .text.Error_Handler:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:161    .text.Error_Handler:0000000000000000 Error_Handler
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:193    .text.MX_SPI1_Init:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:198    .text.MX_SPI1_Init:0000000000000000 MX_SPI1_Init
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:267    .text.MX_SPI1_Init:0000000000000038 $d
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:273    .text.MX_TIM3_Init:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:278    .text.MX_TIM3_Init:0000000000000000 MX_TIM3_Init
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:381    .text.MX_TIM3_Init:0000000000000064 $d
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:387    .text.SystemClock_Config:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:393    .text.SystemClock_Config:0000000000000000 SystemClock_Config
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:545    .text.SystemClock_Config:00000000000000a8 $d
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:551    .text.main:0000000000000000 $t
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:557    .text.main:0000000000000000 main
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:596    .text.main:0000000000000020 $d
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:614    .bss.htim3:0000000000000000 htim3
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:607    .bss.hspi1:0000000000000000 hspi1
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:603    .bss.hspi1:0000000000000000 $d
-/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//ccs3rZwd.s:610    .bss.htim3:0000000000000000 $d
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:20     .text.MX_GPIO_Init:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:25     .text.MX_GPIO_Init:0000000000000000 MX_GPIO_Init
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:149    .text.MX_GPIO_Init:0000000000000088 $d
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:155    .text.Error_Handler:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:161    .text.Error_Handler:0000000000000000 Error_Handler
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:193    .text.MX_SPI1_Init:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:198    .text.MX_SPI1_Init:0000000000000000 MX_SPI1_Init
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:267    .text.MX_SPI1_Init:0000000000000038 $d
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:273    .text.MX_TIM3_Init:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:278    .text.MX_TIM3_Init:0000000000000000 MX_TIM3_Init
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:381    .text.MX_TIM3_Init:0000000000000064 $d
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:387    .text.SystemClock_Config:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:393    .text.SystemClock_Config:0000000000000000 SystemClock_Config
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:545    .text.SystemClock_Config:00000000000000a8 $d
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:551    .text.main:0000000000000000 $t
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:557    .text.main:0000000000000000 main
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:596    .text.main:0000000000000020 $d
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:614    .bss.htim3:0000000000000000 htim3
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:607    .bss.hspi1:0000000000000000 hspi1
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:603    .bss.hspi1:0000000000000000 $d
+/var/folders/36/njjyg_g52yz1vkg8fdk9s_fw0000gn/T//cc6oSBBe.s:610    .bss.htim3:0000000000000000 $d
 
 UNDEFINED SYMBOLS
 HAL_GPIO_WritePin
